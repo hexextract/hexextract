@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iqbal Azeem</h1>
 <h3 align="center">Building Web Applications Since 2012</h3>
 
-- 👨‍💻 All of my projects are available at [https://hexextract.github.io/portfolio/](https://hexextract.github.io/portfolio/)
+- 👨‍💻 Please review projects I have worked on [here](https://hexextract.github.io/portfolio/)
 
-- 💬 Ask me about **React, Vue, Node.js, PHP**
+- 💬 Ask me about **React, Node.js, Vue.js, Python**
 
 
 <h3 align="left">Connect with me:</h3>
