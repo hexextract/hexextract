@@ -53,7 +53,6 @@ Leveraging AI-enhanced development tools for 40% faster delivery:
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hexextract&show_icons=true&theme=radical" alt="Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexextract&layout=compact&theme=radical" alt="Languages" height="165"/>
 </p>
 
